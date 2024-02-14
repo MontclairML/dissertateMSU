@@ -1,13 +1,13 @@
 ---
-title: "Dissertating for USU"
-author: "You"
-geometry: [top=1in, bottom=1in, right=1in, left=1.5in]
-year: "2021"
-degree: "Degree"
+title: "COMPULSIVE TESTING AND ACADEMIC FUNCTIONING"
+author: "ME"
+geometry: [top=1in, bottom=1in, right=1in, left=1in]
+year: "2024"
+degree: "IO Psych"
 field: "Field"
-department: "Your Department"
-uni: "Utah State University"
-location: "Logan, UT"
+department: "Psychology"
+uni: "Montclair State University"
+location: "Montclair, NJ"
 chair: "Chair Person"
 committee2: "Committee Member 1"
 committee3: "Committee Member 2"
@@ -33,142 +33,160 @@ knitr::opts_chunk$set(fig.path = 'figures/',
 library(dissertateUSU)
 ```
 
-
 <!-- Abstract -->
+
 \newpage
-\pagestyle{plain} <!-- can use \pagestyle{fancy} for a horizontal line in header -->
-\fancyhead[R]{\thepage}
-\fancyfoot[C]{}
+
+\pagestyle{plain} <!-- can use \pagestyle{fancy} for a horizontal line in header --> \fancyhead[R]{\thepage} \fancyfoot[C]{}
+
+```{=tex}
 \chapter*{ABSTRACT}
 \addcontentsline{toc}{section}{Abstract}
-
+```
+```{=tex}
 \abstracttitle
 \doublespacing
-
+```
 Your abstract words go here. The line below puts the total number of pages at the end of your abstract (as required).
 
+```{=tex}
 \begin{flushright}(\pageref{LastPage} pages)\end{flushright}
-
-
+```
 <!-- Public Abstract -->
+
+```{=tex}
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
 \chapter*{PUBLIC ABSTRACT}
 \addcontentsline{toc}{section}{Public Abstract}
 \doublespacing
-
+```
 Your publicly abstracted words go here.
 
-
 <!-- Dedication -->
+
+```{=tex}
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
 \chapter*{DEDICATION}
 \addcontentsline{toc}{section}{Dedication}
-
+```
 Dedicate it.
 
-
 <!-- Acknowledgments -->
+
+```{=tex}
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
 \chapter*{ACKNOWLEDGMENTS}
 \addcontentsline{toc}{section}{Acknowledgments}
-
+```
 Acknowledge those acknowledgable individuals and things.
 
-
 <!-- Front Matter -->
+
+```{=tex}
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
 \tableofcontents
-
+```
+```{=tex}
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
 \listoftables
-
+```
+```{=tex}
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
 \listoffigures
-
-
+```
+```{=tex}
 \newpage
 \pagenumbering{arabic}
-
+```
 <!-- Chapter 1 -->
+
+```{=tex}
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
-
-\chapter{INTRODUCTION}
+```
+\chapter{}
 
 ```{r, child="Chapter1.Rmd"}
 ```
 
-
 <!-- Chapter 2 -->
+
+```{=tex}
 \FloatBarrier
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
-
+```
 \chapter{Chapter 2's Title}
 
 ```{r, child="Chapter2.Rmd"}
 ```
 
-
 <!-- Chapter 3 -->
+
+```{=tex}
 \FloatBarrier
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
-
+```
 \chapter{Chapter 3's Title}
 
 ```{r, child="Chapter3.Rmd"}
 ```
 
-
 <!-- Chapter 4 -->
+
+```{=tex}
 \FloatBarrier
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
-
+```
 \chapter{Chapter 4's Title}
 
 ```{r, child="Chapter4.Rmd"}
 ```
 
-
 <!-- Chapter 5 -->
+
+```{=tex}
 \FloatBarrier
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
-
+```
 \chapter{Chapter 5's Title}
 
 ```{r, child="Chapter5.Rmd"}
 ```
 
-
 <!-- References -->
+
+```{=tex}
 \FloatBarrier
 \newpage
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
-
+```
 \chapter*{REFERENCES}
 
+```{=tex}
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.4in}
 \setlength{\parskip}{6pt}
+```
 \noindent

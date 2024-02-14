@@ -164,8 +164,8 @@
 \usepackage{titlesec, blindtext, color}
 
 \titleformat{\chapter}[display]
-{\thispagestyle{empty}\vspace{-60pt}\center}   %% spacing of chapter headings
-{{CHAPTER \thechapter}}
+{\thispagestyle{empty}\center}   %% spacing of chapter headings
+{\textbf{Chapter \thechapter}}
 {0pt}
 {}
 
