@@ -32,6 +32,50 @@ header-includes:
 
 ---
 
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\pagenumbering{gobble}
+\phantom{i'm a ghost}
+\vskip 1.0in
+\bcenter
+
+
+\textbf{Influence of Parsimony and Work-related Psychological Constructs in Predicting Turnover Intention when Using Machine Learning VS Linear Regression} 
+
+\vskip 0.8in
+
+A DISSERTATION
+
+\vskip 0.8in
+
+Submitted to the Faculty of  
+
+Montclair State University in partial fulfillment
+
+of the requirements
+
+for the degree of Doctor of Philosophy
+
+\vskip 0.4in
+
+by
+
+Diego Figueiras
+
+Montclair State University
+
+Montclair, NJ
+
+May 2024
+
+\ecenter
+
+\vskip 1.0in
+
+
+Dissertation Chair: Dr. Michael Bixter
+
+\newpage
 \fancyhead[LO, LE]{INFLUENCE OF PARSIMONY}
 \fancyhead[RO, RE]{ii}
 \renewcommand{\headrulewidth}{0pt}
