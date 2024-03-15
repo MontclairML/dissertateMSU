@@ -1,0 +1,21 @@
+---
+title: 
+output:
+  pdf_document:
+    latex_engine: xelatex
+sansfont: "Times New Roman"
+fontsize: 12pt
+header-includes:
+- \newcommand{\bcenter}{\begin{center}}
+- \newcommand{\ecenter}{\end{center}}
+
+
+---
+\doublespacing
+\bcenter
+MONTCLAIR STATE UNIVERSITY 
+THE GRADUATE SCHOOL 
+DISSERTATION APPROVAL 
+We hereby approve the Dissertation 
+\ecenter
+

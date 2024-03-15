@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.14)  14 FEB 2024 13:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.14)  20 FEB 2024 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -664,31 +664,31 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 (c:/Users/diego/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (./Untitled.aux)
 \openout1 = `Untitled.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 205.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 205.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 201.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 201.
 (c:/Users/diego/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-Package hyperref Info: Link coloring OFF on input line 205.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+Package hyperref Info: Link coloring OFF on input line 201.
 (./Untitled.out) (./Untitled.out)
 \@outlinefile=\write5
 \openout5 = `Untitled.out'.
@@ -697,12 +697,12 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package newfloat Info: Trying Plan B...
-LaTeX Info: Redefining \microtypecontext on input line 205.
-Package microtype Info: Applying patch `item' on input line 205.
-Package microtype Info: Applying patch `toc' on input line 205.
-Package microtype Info: Applying patch `eqnum' on input line 205.
-Package microtype Info: Applying patch `footnote' on input line 205.
-Package microtype Info: Applying patch `verbatim' on input line 205.
+LaTeX Info: Redefining \microtypecontext on input line 201.
+Package microtype Info: Applying patch `item' on input line 201.
+Package microtype Info: Applying patch `toc' on input line 201.
+Package microtype Info: Applying patch `eqnum' on input line 201.
+Package microtype Info: Applying patch `footnote' on input line 201.
+Package microtype Info: Applying patch `verbatim' on input line 201.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -746,7 +746,7 @@ File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mode
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 207; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 203; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -756,19 +756,19 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 207; it cannot be
 (c:/Users/diego/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 207.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 203.
 (c:/Users/diego/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (c:/Users/diego/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 207.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 203.
 (c:/Users/diego/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (c:/Users/diego/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 207.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 203.
 (c:/Users/diego/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) [1
@@ -803,7 +803,7 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 ]
 Chapter 1.
-Package newfloat Info: Setting Plan B file extension to `lof'... on input line 278.
+Package newfloat Info: Setting Plan B file extension to `lof'... on input line 274.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -815,7 +815,7 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 [1
 
 ]
-Overfull \hbox (2.02905pt too wide) in paragraph at lines 291--291
+Overfull \hbox (2.02905pt too wide) in paragraph at lines 287--287
 \TU/lmr/m/n/12 wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, 
  []
 
@@ -824,7 +824,7 @@ Chapter 2.
 [4
 
 ]
-Overfull \hbox (2.02905pt too wide) in paragraph at lines 306--306
+Overfull \hbox (2.02905pt too wide) in paragraph at lines 302--302
 \TU/lmr/m/n/12 wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, 
  []
 
@@ -833,7 +833,7 @@ Chapter 3.
 [7
 
 ]
-Overfull \hbox (2.02905pt too wide) in paragraph at lines 321--321
+Overfull \hbox (2.02905pt too wide) in paragraph at lines 317--317
 \TU/lmr/m/n/12 wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, 
  []
 
@@ -842,7 +842,7 @@ Chapter 4.
 [10
 
 ]
-Overfull \hbox (2.02905pt too wide) in paragraph at lines 336--336
+Overfull \hbox (2.02905pt too wide) in paragraph at lines 332--332
 \TU/lmr/m/n/12 wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, 
  []
 
@@ -851,7 +851,7 @@ Chapter 5.
 [13
 
 ]
-Overfull \hbox (2.02905pt too wide) in paragraph at lines 351--351
+Overfull \hbox (2.02905pt too wide) in paragraph at lines 347--347
 \TU/lmr/m/n/12 wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, 
  []
 
@@ -865,7 +865,7 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `Untitled.out' has not changed.
-(rerunfilecheck)             Checksum: BE04E03DCD727A7ECA73E7DBF3F50311;1270.
+(rerunfilecheck)             Checksum: 28FC3CDD0F209194073E30651148A9A9;1305.
  ) 
 Here is how much of TeX's memory you used:
  20320 strings out of 476878

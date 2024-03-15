@@ -1,18 +1,16 @@
 ---
 title: "COMPULSIVE TESTING AND ACADEMIC FUNCTIONING"
-author: "ME"
+author: "Diego Figueiras"
 geometry: [top=1in, bottom=1in, right=1in, left=1in]
 year: "2024"
-degree: "IO Psych"
-field: "Field"
+degree: "PhD"
+field: "Industrial/Organizational Psychology"
 department: "Psychology"
 uni: "Montclair State University"
 location: "Montclair, NJ"
-chair: "Chair Person"
-committee2: "Committee Member 1"
-committee3: "Committee Member 2"
-committee4: "Committee Member 3"
-committee5: "Committee Member 4"
+chair: "Michael Bixter"
+committee2: "Kevin Askew"
+committee3: "John Kulas"
 gradschool: "Richard S. Inouye, Ph.D."
 gradschoollabel: "Vice Provost for Graduate Studies"
 bibliography: yourbibfile.bib
@@ -117,7 +115,7 @@ Acknowledge those acknowledgable individuals and things.
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
 ```
-\chapter{}
+\chapter{INTRODUCTION}
 
 ```{r, child="Chapter1.Rmd"}
 ```

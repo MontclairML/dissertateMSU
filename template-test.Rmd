@@ -1,0 +1,128 @@
+---
+title: 
+output:
+  pdf_document:
+    latex_engine: xelatex
+sansfont: "Times New Roman"
+fontsize: 12pt
+header-includes:
+  - \newcommand{\bcenter}{\begin{center}}
+  - \newcommand{\ecenter}{\end{center}}
+#  - \pagenumbering{gobble}                                     ## removes page numbers
+#  - \usepackage{sidecap}                                       ## float figures in .pdf
+  - \usepackage{wrapfig}                                       ## wrap figures in .pdf
+  #- \usepackage[normalem]{ulem}                                           ## strikeout
+  #- \usepackage{graphicx}
+#  - \graphicspath{ {./images/} }
+  - \usepackage{multicol}
+  - \setlength{\columnsep}{5cm}
+  - \usepackage{fancyhdr}
+  - \usepackage{setspace}                                      ## header/footer logo
+  - \pagestyle{fancy}
+  #- \setlength{\headheight}{40pt}                        ## More space between line and text
+  #- \addtolength{\topmargin}{-20pt}                      ## trying to pull text up (vertically)
+  #- \rhead{\includegraphics[width = .1\textwidth]{erg2.png}}                  ## header
+  #- \lfoot{\includegraphics[width = .2\textwidth]{clientlogo2.png}}            ## footer
+  #- \usepackage{enumitem}                                ## customized bullet symbols
+  #- \usepackage{amsfonts}                                ## picking symbols for bullets
+  #- \setlist[itemize,1]{label=$\bullet$}
+  #- \setlist[itemize,2]{label=$\checkmark$}                   ## ams symbols
+  #- \setlist[itemize,3]{label=$\circ$}              ## http://www.personal.psu.edu/dpl14/latex/symbols.pdf
+  #- \setlist[itemize,4]{label=$\maltese$}
+
+---
+
+\fancyhead[LO, LE]{INFLUENCE OF PARSIMONY}
+\fancyhead[RO, RE]{ii}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\onehalfspacing 
+
+\bcenter
+
+MONTCLAIR STATE UNIVERSITY  
+
+THE GRADUATE SCHOOL  
+
+DISSERTATION APPROVAL  
+
+\vskip 0.2in
+
+We hereby approve the Dissertation 
+
+\vskip 0.2in  
+
+\textbf{Influence of Parsimony and Work-related Psychological Constructs in Predicting Turnover Intention when Using Machine Learning VS Linear Regression}  
+
+of  
+
+Diego Figueiras  
+
+Candidate for the Degree:  
+
+Doctor of Philosophy
+
+
+
+\ecenter  
+
+
+\begin{multicols}{2}  
+
+Graduate Programs:
+\newline
+Counseling
+
+\vskip 0.6in
+
+Certified by:
+
+\vskip 0.6in  
+
+\linespread{1.0}\selectfont
+\rule{6cm}{0.2mm}
+\newline
+Dr. Scott Herness
+\newline
+Vice Provost for Research and
+\newline
+Dean of the Graduate School
+
+\vskip 0.3in
+
+\rule{6cm}{0.2mm}
+\newline
+Date
+
+\columnbreak
+
+Dissertation Committee:
+
+\vskip 0.6in
+
+\rule{6cm}{0.2mm}
+\newline
+Dr. Michael Bixter
+\newline
+Dissertation Chair
+
+\vskip 0.6in
+
+\rule{6cm}{0.2mm}
+\newline
+Dr. Kevin Askew
+
+\vskip 0.6in
+
+\rule{6cm}{0.2mm}
+\newline
+Dr. John T. Kulas
+
+
+\end{multicols}  
+
+
+
+
+
