@@ -1,3 +1,7 @@
+
+
+
+
 % ---------------------------------------------------------------------------
 %  @LaTeX-class-file{
 %     filename        = "DissertateUSU.cls",
@@ -81,6 +85,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% LAYOUT: TABLE of CONTENTS -auto fill %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setstretch{1}
 \setcounter{tocdepth}{2}
 \usepackage[titles]{tocloft}
 \usepackage[titletoc]{appendix}
@@ -89,8 +94,8 @@
 \renewcommand\contentsname{CONTENTS}
 \renewcommand\listfigurename{LIST OF FIGURES}
 \renewcommand\listtablename{LIST OF TABLES}
-\renewcommand{\cftchapafterpnum}{\vspace{10pt}}
-\newcommand{\hsp}{\hspace{20pt}}
+\renewcommand{\cftchapafterpnum}{\vspace{0pt}}
+\newcommand{\hsp}{\hspace{0pt}}
 
 \renewcommand*{\tableofcontents}{
     \chapter*{ \begin{center} \textnormal{\contentsname}  \end{center}}

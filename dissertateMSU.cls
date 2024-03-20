@@ -1,40 +1,3 @@
----
-autor: 'Diego Figueiras'
-params:
-  title: "Influence of Parsimony and Work-related Psychological Constructs in Predicting Turnover Intention when Using Machine Learning VS Linear Regression"
-output:
-  pdf_document:
-    latex_engine: xelatex
-  keep_tex: true
-sansfont: "Times New Roman"
-fontsize: 12pt
-header-includes:
-  - \newcommand{\bcenter}{\begin{center}}
-  - \newcommand{\ecenter}{\end{center}}
-#  - \pagenumbering{gobble}                                     ## removes page numbers
-#  - \usepackage{sidecap}                                       ## float figures in .pdf
-  - \usepackage{wrapfig}                                       ## wrap figures in .pdf
-  #- \usepackage[normalem]{ulem}                                           ## strikeout
-  #- \usepackage{graphicx}
-#  - \graphicspath{ {./images/} }
-  - \usepackage{multicol}
-  - \setlength{\columnsep}{5cm}
-  - \usepackage{fancyhdr}
-  - \usepackage{setspace}                                      ## header/footer logo
-  - \pagestyle{fancy}
-  #- \setlength{\headheight}{40pt}                        ## More space between line and text
-  #- \addtolength{\topmargin}{-20pt}                      ## trying to pull text up (vertically)
-  #- \rhead{\includegraphics[width = .1\textwidth]{erg2.png}}                  ## header
-  #- \lfoot{\includegraphics[width = .2\textwidth]{clientlogo2.png}}            ## footer
-  #- \usepackage{enumitem}                                ## customized bullet symbols
-  #- \usepackage{amsfonts}                                ## picking symbols for bullets
-  #- \setlist[itemize,1]{label=$\bullet$}
-  #- \setlist[itemize,2]{label=$\checkmark$}                   ## ams symbols
-  #- \setlist[itemize,3]{label=$\circ$}              ## http://www.personal.psu.edu/dpl14/latex/symbols.pdf
-  #- \setlist[itemize,4]{label=$\maltese$}
-
----
-
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 \pagenumbering{gobble}
@@ -43,7 +6,7 @@ header-includes:
 \bcenter
 
 
-\textbf{`r params$title`} 
+\textbf{`r params$title`}
 
 \vskip 0.8in
 
@@ -51,7 +14,7 @@ A DISSERTATION
 
 \vskip 0.8in
 
-Submitted to the Faculty of  
+Submitted to the Faculty of
 
 Montclair State University in partial fulfillment
 
@@ -89,38 +52,38 @@ Dissertation Chair: Dr. Michael Bixter
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
-\onehalfspacing 
+\onehalfspacing
 
 \bcenter
 
-MONTCLAIR STATE UNIVERSITY  
+MONTCLAIR STATE UNIVERSITY
 
-THE GRADUATE SCHOOL  
+THE GRADUATE SCHOOL
 
-DISSERTATION APPROVAL  
+DISSERTATION APPROVAL
 
 \vskip 0.2in
 
-We hereby approve the Dissertation 
+We hereby approve the Dissertation
 
-\vskip 0.2in  
+\vskip 0.2in
 
-\textbf{Influence of Parsimony and Work-related Psychological Constructs in Predicting Turnover Intention when Using Machine Learning VS Linear Regression}  
+\textbf{Influence of Parsimony and Work-related Psychological Constructs in Predicting Turnover Intention when Using Machine Learning VS Linear Regression}
 
-of  
+of
 
-Diego Figueiras  
+Diego Figueiras
 
-Candidate for the Degree:  
+Candidate for the Degree:
 
 Doctor of Philosophy
 
 
 
-\ecenter  
+\ecenter
 
 
-\begin{multicols}{2}  
+\begin{multicols}{2}
 
 Graduate Programs:
 \newline
@@ -130,7 +93,7 @@ Counseling
 
 Certified by:
 
-\vskip 0.6in  
+\vskip 0.6in
 
 \linespread{1.0}\selectfont
 \rule{6cm}{0.2mm}
@@ -172,7 +135,7 @@ Dr. Kevin Askew
 Dr. John T. Kulas
 
 
-\end{multicols}  
+\end{multicols}
 
 \newpage
 \fancyhead[LO, LE]{INFLUENCE OF PARSIMONY}
@@ -203,11 +166,6 @@ Copyright@2024 by Diego Figueiras. All rights reserved.
 This dissertation explores the ongoing debate between traditional statistical regression models and machine learning (ML) algorithms in predictive modeling, focusing on the impact of sample size and the number of variables. Study 1 investigates the relationship between sample size and predictive accuracy, proposing hypotheses regarding the advantages of ML over regression as sample size increases. Additionally, the study examines the influence of the number of variables on predictive accuracy, emphasizing the trade-off between ML and regression models. Using data from the Federal Employee Viewpoint Survey, the research aims to contribute insights into the conditions favoring each modeling approach. Study 2 shifts the focus to incremental validity, exploring whether work-related psychological constructs enhance ML models' predictive accuracy in turnover intention compared to biodata alone. The proposed hypotheses suggest that incorporating psychological constructs will improve predictive accuracy, addressing the "garbage in garbage out" concern prevalent in ML applications. The methods involve diverse datasets, including responses from federal employees and an online survey through Amazon's MTurk, with machine learning algorithms such as Gradient Boosting Trees, Random Forest, Neural Networks, Support Vector Machines, and logistic regression. The dissertation seeks to advance understanding in the field, offering practical insights for researchers and practitioners navigating the dynamic landscape of predictive modeling.
 
 
-\newpage
-\fancyhead[LO, LE]{INFLUENCE OF PARSIMONY}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
 
-\tableofcontents
 
-\section{Chapter 1 (Heading 1)}
+
