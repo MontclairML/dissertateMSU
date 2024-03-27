@@ -1,7 +1,7 @@
 ---
-autor: 'Diego Figueiras'
 params:
   title: "Influence of Parsimony and Work-related Psychological Constructs in Predicting Turnover Intention when Using Machine Learning VS Linear Regression"
+  author: 'Diego Figueiras'
 output:
   pdf_document:
     latex_engine: xelatex
@@ -63,7 +63,7 @@ for the degree of Doctor of Philosophy
 
 by
 
-\@author
+`r params$author`
 
 Montclair State University
 
